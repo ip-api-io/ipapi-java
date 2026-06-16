@@ -80,3 +80,4 @@ System.out.println(reputation);
 - [VPN, proxy & Tor detection](vpn-proxy-tor.md) — the individual checks behind the score
 - [Email validation & verification](email-validation.md) — deliverability before scoring
 - Product pages: [Fraud detection](https://ip-api.io/fraud-detection-api) · [Risk score](https://ip-api.io/risk-score) · [IP reputation](https://ip-api.io/ip-reputation)
+- [Full tutorial on ip-api.io](https://ip-api.io/docs/sdk/java/fraud-risk-scoring)

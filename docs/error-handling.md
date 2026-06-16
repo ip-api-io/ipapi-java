@@ -102,3 +102,4 @@ System.out.println(usage.periodStart() + " -> " + usage.periodEnd());
 - [IP geolocation & bulk lookup](ip-geolocation.md) — the most common call
 - API reference: https://ip-api.io/api-docs.html
 - Get a free API key: https://ip-api.io
+- [Full tutorial on ip-api.io](https://ip-api.io/docs/sdk/java/error-handling)
